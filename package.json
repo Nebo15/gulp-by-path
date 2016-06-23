@@ -2,6 +2,7 @@
   "name": "gulp-by-path",
   "version": "1.0.0",
   "description": "Transform files grouped by file.relative",
+  "repository": "https://github.com/Nebo15/gulp-by-path.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
