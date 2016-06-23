@@ -1,0 +1,22 @@
+{
+  "name": "gulp-by-path",
+  "version": "1.0.0",
+  "description": "Transform files grouped by file.relative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "filename",
+    "group",
+    "transform"
+  ],
+  "author": "Alexey Bondarenko <alexeybondarenko@me.com> (http://bondalex.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "callback-count": "^0.2.0",
+    "stream-from-array": "^1.0.0",
+    "through2": "^2.0.1"
+  }
+}
