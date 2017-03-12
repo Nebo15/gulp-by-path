@@ -1,5 +1,7 @@
 # Gulp By Path
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nebo15/gulp-by-path.svg)](https://greenkeeper.io/)
+
 Transform file grouped in streams by path. 
 
 ## Installation
